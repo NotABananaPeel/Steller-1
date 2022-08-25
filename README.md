@@ -1,1 +1,1 @@
-# Steller-1
+# Stellar-1
